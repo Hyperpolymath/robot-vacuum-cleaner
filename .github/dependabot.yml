@@ -26,3 +26,4 @@ updates:
       actions:
         patterns:
           - "*"
+    open-pull-requests-limit: 2
